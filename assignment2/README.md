@@ -1,3 +1,4 @@
+Assignment 2: Support Vector Machines
 
 Instructions and submission guidelines:
 
